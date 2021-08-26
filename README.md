@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![I am a individual Full-Stack Developer.](https://thesitecrew.com/wp-content/uploads/2018/09/Cane-Bay-Website-Design-845x321.jpg)
+
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code.
 
 - 🚀 I use daily:
