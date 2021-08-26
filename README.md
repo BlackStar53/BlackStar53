@@ -32,6 +32,6 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
       <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=BlackStar53&show_icons=true&theme=react&border_color=00dafb&include_all_commits=true"/>
  </a>
 <a href="#" title="Go to Source">
-      <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Super117&theme=react&border=00dafb&fire=DDB80F"/>
+      <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=BlackStar53&theme=react&border=00dafb&fire=DDB80F"/>
  </a>
 </div>
