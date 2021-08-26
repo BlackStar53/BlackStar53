@@ -31,7 +31,7 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 
 ##
-
+<!--
 <p align="center">
   <a href="https://github.com/shadowbq?tab=followers">
     <img src="https://img.shields.io/github/followers/shadowbq?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -43,7 +43,7 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
     <img src="https://img.shields.io/badge/linkedin-shadowbq-blue?style=for-the-badge" alt="LInkedin badge" />
   </a>
 </p>
-
+-->
 <div align=center>
 <a href="#" title="Go to Source">
       <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=BlackStar53&show_icons=true&theme=react&border_color=00dafb&include_all_commits=true"/>
