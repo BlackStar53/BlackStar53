@@ -12,6 +12,7 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using:
   ![Vue](https://img.shields.io/badge/-VueJS-4FC08D?logo=Vue.js&style=plastic&logoColor=white)
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&style=plastic)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=plastic)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
