@@ -56,7 +56,7 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
 </div>
 
 
-<div align=center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackStar53&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
