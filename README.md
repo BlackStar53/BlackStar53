@@ -54,3 +54,5 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
       <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=BlackStar53&theme=react&border=00dafb&fire=DDB80F"/>
  </a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacerumsfeld-code&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
