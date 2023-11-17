@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![I am a individual Full-Stack Developer.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Build-website.jpg/800px-Build-website.jpg)
+<!--![I am a individual Full-Stack Developer.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Build-website.jpg/800px-Build-website.jpg)-->
 
 I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code.
 
