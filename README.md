@@ -35,12 +35,3 @@ Version Control & Collaboration:
 Testing & Debugging:
 - Automated Testing (PyTest, Jest)
 - Debugging & Profiling (Chrome DevTools, Postman, AWS CloudWatch)
-
-## My Stats
-
-<p>
-<a href="https://github.com/perez-carlos">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=perez-carlos&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
