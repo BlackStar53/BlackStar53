@@ -4,7 +4,7 @@ I have 10+ years of experience in web development, automation, and AI/ML model i
 
 Throughout my career, I’ve collaborated closely with cross-functional teams, contributing to successfully delivering complex projects. My teamwork experience includes working with developers, designers, and product managers to ensure seamless integration and alignment with project goals. I’m consistently going the extra mile to ensure projects are completed on time and to the highest standard.
 
-## My Stats
+## My Skills
 
 Languages & Frameworks:
 - Python (Django, Flask, FastAPI)
