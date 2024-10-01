@@ -1,10 +1,40 @@
 ## About Me
 
-I'm a Senior Full Stack Developer with over 10 years of experience, specializing in Python, Django, React, Node.js, and AWS. I’m skilled in both front-end and back-end development, enabling me to build and manage solid, high-performance web applications.
+I have 10+ years of experience in web development, automation, and AI/ML model integration. Especially, I have a strong background in using Python and JavaScript frameworks like Django, Flask, FastAPI, Node.js, React, and Vue.js to build scalable and efficient web applications.
 
-On the back end, I focus on Python and Django, creating secure APIs and handling complex database tasks. On the front end, I use React to develop user interfaces that are both attractive and easy to use. My experience with Node.js helps me create full-stack solutions that work well across different platforms.
+Throughout my career, I’ve collaborated closely with cross-functional teams, contributing to successfully delivering complex projects. My teamwork experience includes working with developers, designers, and product managers to ensure seamless integration and alignment with project goals. I’m consistently going the extra mile to ensure projects are completed on time and to the highest standard.
 
-I’ve also deployed and managed applications on AWS, using services like EC2, S3, Lambda, and RDS to ensure they run smoothly and can grow as needed. I work well with teams to deliver projects that meet client needs, bringing a strong work ethic and a commitment to high-quality results.
+## My Stats
+
+Languages & Frameworks:
+- Python (Django, Flask, FastAPI)
+- JavaScript (React/Next.js, Vue.js/Nuxt.js)
+- Node.js (Express, NestJS)
+- HTML5, CSS3
+- TypeScript
+
+Database Management:
+- SQL (PostgreSQL, MySQL)
+- NoSQL (MongoDB, DynamoDB)
+- ORM (SQLAlchemy, Sequelize)
+
+Cloud & DevOps:
+- AWS (EC2, S3, RDS, Lambda, CloudFront)
+- Containerization (Docker, Kubernetes)
+- CI/CD (Jenkins, GitLab CI, AWS CodePipeline)
+
+API Development & Integration:
+- RESTful API
+- GraphQL
+- API Security (OAuth, JWT)
+
+Version Control & Collaboration:
+- Git (GitHub, GitLab, Bitbucket)
+- Agile Methodologies (Jira, Trello)
+
+Testing & Debugging:
+- Automated Testing (PyTest, Jest)
+- Debugging & Profiling (Chrome DevTools, Postman, AWS CloudWatch)
 
 ## My Stats
 
