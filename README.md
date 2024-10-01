@@ -38,11 +38,9 @@ Testing & Debugging:
 
 ## My Stats
 
-<div align=center>
-<a href="#" title="Go to Source">
-      <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=perez-carlos&show_icons=true&theme=react&border_color=00dafb&include_all_commits=true"/>
- </a>
-<a href="#" title="Go to Source">
-      <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=perez-carlos&theme=react&border=00dafb&fire=DDB80F"/>
- </a>
-</div>
+<p>
+<a href="https://github.com/perez-carlos">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=perez-carlos&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
